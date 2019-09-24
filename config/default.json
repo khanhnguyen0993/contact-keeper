@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://khanh:khanhnguyen@contactkeeper-3lolf.mongodb.net/test?retryWrites=true&w=majority"
+
+}
+
+// with config in package.json
+// when create default.json -> have access throughout the entire app.
